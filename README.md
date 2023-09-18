@@ -1,0 +1,2 @@
+# Foydalanuvchini_ismi_orqali_topish
+Created with CodeSandbox
